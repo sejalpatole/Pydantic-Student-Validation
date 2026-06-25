@@ -1,4 +1,5 @@
 import json
+import pydantic
 from datetime import UTC, datetime
 from functools import partial
 from typing import Annotated, Literal
